@@ -100,6 +100,8 @@ Alternatively, set the HF_TOKEN environment variable or pass --hf-token to the s
 
 RUN THE SCRIPT
 --------------
+Download the Python Script :- https://github.com/Soumendra7/SubTitleAI/blob/main/subtitle_tag_agent_tags_fixed.py
+
 Save the Python script as subtitle_tag_agent_tags_fixed.py, or use the filename you already have.
 
 Basic usage (output defaults to the same basename with .srt extension):
