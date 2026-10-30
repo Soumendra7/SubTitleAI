@@ -15,10 +15,10 @@ FEATURES
 - Splits speech into chunks for recognition.
 - Creates timestamped SRT subtitles.
 - Uses the following tags:
-  "<SILENT></SILENT>"   — detected silence.
-  "<NOISE></NOISE>"     — detected background noise or music without recognized speech.
-  "<FIL>...</FIL>"      — recognized filler/mumbling sounds.
-  "<NOISE>speech</NOISE>" — speech classified as having background noise/music.
+  SILENT Tag   — detected silence.
+  NOISE Tag     — detected background noise or music without recognized speech.
+  FIL Tag      — recognized filler/mumbling sounds.
+  NOISE with speech Tag — speech classified as having background noise/music.
 - Writes output as UTF-8 text.
 
 The silence and background-noise/music checks are heuristic estimates and can be wrong. Speech recognition may also make mistakes, so review the output when accuracy matters.
