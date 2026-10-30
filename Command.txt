@@ -1,0 +1,10 @@
+1.Keep the audio file and the python script in the same location
+2. Right click on the blank area.
+3. Choose Open in terminal
+4.Write -> cmd
+5.Write -> python subtitle_tag_agent.py "<audioFile_name>.mpeg"
+           
+
+
+
+python subtitle_tag_agent_tags_fixed.py "ODIA_MP3-2.mp3.mpeg"
