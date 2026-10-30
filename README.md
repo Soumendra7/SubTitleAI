@@ -1,6 +1,12 @@
 README — Odia Speech-to-Subtitle Tagging Script
 =================================================
 
+**Special Thanks**
+
+A special thanks to **ChatGPT by OpenAI** for assisting me throughout the development of SubTitleAI, including research, Python scripting, debugging, troubleshooting, and project development.
+
+Built with curiosity, experimentation, and AI-assisted coding.
+
 OVERVIEW
 --------
 This Python script converts an audio or video file containing Odia speech into a Subtitle Edit-compatible SRT subtitle file. It uses AI4Bharat's Indic Conformer model for speech recognition and Silero VAD to detect speech regions.
